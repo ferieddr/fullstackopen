@@ -1,0 +1,1 @@
+Course material for HU fullstack web development. https://fullstackopen.com/en/
